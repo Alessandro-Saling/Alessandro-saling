@@ -20,7 +20,7 @@ Estou em transição de carreira e me direcionando para a área da tecnologia, q
 
 </div> </br>
 
-##Meu e-mail para caso queira tirar alguma duvida ale.saling@hotmail.com
+Meu e-mail para caso queira tirar alguma duvida ale.saling@hotmail.com
 
 <br>
 Frase Inspiradora: <br>
