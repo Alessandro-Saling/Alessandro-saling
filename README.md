@@ -1,6 +1,6 @@
 
 ### Olá me Chamo Alessandro Saling 👋🏻
-Estou em transição de carreira e me direcionando para a área da tecnologia, que sempre foi minha paixão. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em Back-End, com conhecimentos básicos em HTML, CSS, JS, MySQL, Node.js, Python e React. Sinto-me entusiasmado e pronto para enfrentar novos desafios nesse campo que tanto me inspira. Estou animado para crescer profissionalmente e contribuir com projetos empolgantes nesse universo tecnológico.
+Estou em transição de carreira e me direcionando para a área da tecnologia, que sempre foi minha paixão. Comecei a estudar a parte de tecnologia no início do ano de 2023 e estou realizando um curso de Backend pela Cubos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em Back-End, com conhecimentos básicos em HTML, CSS, JS, MySQL, Node.js, Python e React. Sinto-me entusiasmado e pronto para enfrentar novos desafios nesse campo que tanto me inspira. Estou animado para crescer profissionalmente e contribuir com projetos empolgantes nesse universo tecnológico.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrosaling/)
 
@@ -15,7 +15,7 @@ Estou em transição de carreira e me direcionando para a área da tecnologia, q
 <img align="Center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
 <img align="Center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 <img align="Center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
-<img align="Center" alt="NodeJS" src=" https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+
 <img align="Center" alt="NodeJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
 
 </div> </br>
